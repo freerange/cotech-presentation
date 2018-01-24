@@ -272,6 +272,7 @@ The company was started in 2009
 # Priority
 
 - Tasks assigned manually
+- Mostly ad-hoc tasks
 - Processed regularly
 
 ^

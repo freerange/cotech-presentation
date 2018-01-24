@@ -110,7 +110,7 @@ The company was started in 2009
 
 ^
 - We finally managed to reverse that trend last year when we increased our headcount by 50%!
-- That’s right - we took on a single new member in the form of Chris Lowis
+- That’s right - we took on a single new member in the form of another Chris
 
 ---
 
@@ -247,8 +247,8 @@ The company was started in 2009
 
 # Inbox
 
-- Ad-hoc cards
-- Processed daily
+- Contains: Ad-hoc cards
+- Processed: Daily
 - Example: New client enquiry
 
 ^
@@ -259,9 +259,8 @@ The company was started in 2009
 
 # Discussing
 
-- Non-actionable cards
-- Neglected cards
-- Processed weekly
+- Contains: Non-actionable and negected cards
+- Processed: Weekly
 - Example: Ask HSBC about overdraft/loan options
 
 ^
@@ -272,12 +271,12 @@ The company was started in 2009
 
 # Harmonia
 
-- Tasks assigned by Harmonia
-- Mostly recurring tasks
-- Processed regularly
+- Contains: Tasks assigned by Harmonia
+- Processed: Regularly
 - Example: Pay our wages
 
 ^
+- Mostly recurring tasks
 - Processed regularly - ideally before the due date
 - We introduce new tasks when we notice a pattern (e.g. put process in place to go through DO&S opportunities)
 
@@ -285,24 +284,26 @@ The company was started in 2009
 
 # Priority
 
-- Tasks assigned manually
-- Mostly ad-hoc tasks
-- Processed regularly
+- Contains: Tasks assigned manually
+- Processed: Regularly
 
 ^
+- Mostly ad-hoc tasks
 - Assigned when processing the Inbox
 
 ---
 
 # Doing
 
-- Being worked on
+- Contains: Cards being worked on
+- Processed: Regularly
 
 ---
 
 # Waiting
 
-- Things we're waiting on
+- Contains: Cards we're waiting on
+- Processed: Regularly
 
 ---
 

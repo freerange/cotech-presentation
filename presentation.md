@@ -12,6 +12,10 @@ I'm Chris from Go Free Range and I'm going to talk about:
 
 ---
 
+# [fit] **About us**
+
+---
+
 ![fit](gfr-logo.png)
 
 ^
@@ -164,7 +168,7 @@ TODO: Add GDS logo
 
 ---
 
-# [fit] Tools & Processes
+# [fit] **Tools & Processes**
 
 ^
 - What we do day-to-day to keep the company running, specifically how we capture work we need to do and how we keep on top of that work
@@ -395,7 +399,7 @@ I'm going to quickly run through some examples of the tasks that go through this
 
 ---
 
-# [fit] Benefits & Challenges
+# [fit] **Benefits & Challenges**
 
 ---
 

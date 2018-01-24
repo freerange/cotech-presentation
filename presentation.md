@@ -237,7 +237,7 @@ TODO: Add GDS logo
 
 # Inbox
 
-- Ad-hoc cards added here
+- Ad-hoc cards
 - Processed daily
 - Example: New client enquiry
 

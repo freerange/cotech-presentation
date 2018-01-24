@@ -204,7 +204,15 @@ The company was started in 2009
 
 ---
 
-# Trello board
+![](2018-01-24-trello-screenshot.png)
+
+^
+- Central to the process is our Trello board
+- We use a single board containing 6 lists to organise our work (represented as cards)
+
+---
+
+# Trello board lists
 
 * Inbox
 * Discussing
@@ -212,11 +220,6 @@ The company was started in 2009
 * Priority
 * Doing
 * Waiting
-
-^
-- Central to the process is our Trello board
-- We use a single board containing 6 lists to organise our work (represented as cards)
-- TODO: Add screenshot of our board?
 
 ---
 

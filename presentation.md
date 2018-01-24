@@ -68,28 +68,37 @@ The company was started in 2009
 
 ---
 
-# [fit] Kalv :heart: Vancouver
+# [fit] Kalv
+# [fit] :heart:
+# [fit] Vancouver
+
 
 ^
 - Kalv moved to Vancouver
 
 ---
 
-# [fit] Jase :heart: Paris
+# [fit] Jase
+# [fit] :heart:
+# [fit] Paris
 
 ^
 - Jase moved to Paris
 
 ---
 
-# [fit] James :heart: Austin
+# [fit] James
+# [fit] :heart:
+# [fit] Austin
 
 ^
 - James moved to Austin
 
 ---
 
-# [fit] Tom :heart: Basecamp
+# [fit] Tom
+# [fit] :heart:
+# [fit] Basecamp
 
 ^
 - Tom left us for the greener pastures of Basecamp
@@ -97,7 +106,7 @@ The company was started in 2009
 
 ---
 
-# [fit] 50% increase in headcount!
+# [fit] 50%
 
 ^
 - We finally managed to reverse that trend last year when we increased our headcount by 50%!

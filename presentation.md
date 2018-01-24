@@ -169,6 +169,8 @@ The company was started in 2009
 
 # [fit] Email
 
+![right](gmail-screenshot.png)
+
 ^
 - Single company email address
 - We try to encourage people to email our group address so that no single member becomes responsible for something
@@ -176,6 +178,8 @@ The company was started in 2009
 ---
 
 # [fit] Trello
+
+![right](trello-screenshot.png)
 
 ^
 - Single board for running the company
@@ -185,12 +189,16 @@ The company was started in 2009
 
 # [fit] Harmonia
 
+![right](harmonia-screenshot.png)
+
 ^
 - Random assignment of our recurring tasks
 
 ---
 
 # [fit] Slack
+
+![right](slack-screenshot.png)
 
 ^
 - Real-time(ish) communication

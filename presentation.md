@@ -426,7 +426,7 @@ I'm going to quickly run through some examples of the tasks that go through this
 - Decision making
 - Equal effort
 - Members leaving and joining
-- TODO: 4 members left - we weren't able to work out how to continue working together
+- 4 members left!
 - Lack of diversity
 
 ^
@@ -434,6 +434,7 @@ I'm going to quickly run through some examples of the tasks that go through this
 - We definitely struggled on occasion when there were 6 of us. It's easier with 2 or 3 but still requires effort.
 - I'm worried that things aren't necessarily fair in terms of working vs holiday time. Our contributions are mostly based on an honesty system given that we don't track our non-client time or holidays
 - We don't have a process for members leaving and joining. It's probably been slightly different each time it happens.
+- We've clearly got some way to go if this really is going to become the last company we want to work for.
 - There's an obvious lack of diversity in our all-white, all-male group. We're aware of this and would like to do something about it.
 
 ---

@@ -58,34 +58,30 @@ The company was started in 2009
 * Tom
 
 ^
-- TODO: add image to illustrate me becoming 6th member
 - I joined as the 6th member in 2010
 - Which started the slow leak of 4 of those members out of the organisation
-- 3 went as far as emigrating!
+- 3 even went as far as emigrating!
 
 ---
 
-# [fit] Kalv :heart: Canada
+# [fit] Kalv :heart: Vancouver
 
 ^
 - Kalv moved to Vancouver
-- TODO: Kalv’s head with Canadian flag
 
 ---
 
-# [fit] Jase :heart: France
+# [fit] Jase :heart: Paris
 
 ^
 - Jase moved to Paris
-- TODO: Jase’s head with French flag
 
 ---
 
-# [fit] James :heart: Texas
+# [fit] James :heart: Austin
 
 ^
-- James moved to Texas
-- TODO: James’s head with Texas flag
+- James moved to Austin
 
 ---
 
@@ -95,7 +91,6 @@ The company was started in 2009
 - Tom defected to Basecamp
 - Formerly 37signals
 - Created Rails!
-- TODO: illustrate Tom at Basecamp
 
 ---
 

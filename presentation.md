@@ -28,7 +28,6 @@ I'm Chris from Go Free Range and I'm going to talk about:
 
 ^
 - Very experienced Ruby developers
-- TODO: Add Ruby logo
 
 ---
 
@@ -37,7 +36,6 @@ I'm Chris from Go Free Range and I'm going to talk about:
 ^
 - specialises in Ruby on Rails development
 - Ruby on Rails is a web development framework.
-- TODO: Add Ruby on Rails logo
 
 ---
 
@@ -99,7 +97,6 @@ The company was started in 2009
 ^
 - We finally managed to reverse that trend last year when we increased our headcount by 50%!
 - That’s right - we took on a single new member in the form of Chris Lowis
-TODO: Image: Chris L’s face, or chris’s face joining james and mine
 
 ---
 
@@ -107,7 +104,6 @@ TODO: Image: Chris L’s face, or chris’s face joining james and mine
 
 ^
 - We’ve been fortunate enough to have three main clients that have helped sustain us since we began
-- TODO: Add O2 logo
 
 ---
 
@@ -115,7 +111,6 @@ TODO: Image: Chris L’s face, or chris’s face joining james and mine
 
 ^
 - Open University backed online education platform
-TODO: Add FutureLearn logo
 
 ---
 
@@ -123,7 +118,6 @@ TODO: Add FutureLearn logo
 
 ^
 - We worked on the GOV.UK content management system
-TODO: Add GDS logo
 
 ---
 
@@ -178,7 +172,6 @@ TODO: Add GDS logo
 ^
 - Single company email address
 - We try to encourage people to email our group address so that no single member becomes responsible for something
-- TODO: Image: Gmail logo?
 
 ---
 
@@ -187,7 +180,6 @@ TODO: Add GDS logo
 ^
 - Single board for running the company
 - Single place to help decide what needs to be done
-- TODO: Image: Trello logo
 
 ---
 
@@ -195,7 +187,6 @@ TODO: Add GDS logo
 
 ^
 - Random assignment of our recurring tasks
-- TODO: Image: Harmonia logo
 
 ---
 
@@ -203,7 +194,6 @@ TODO: Add GDS logo
 
 ^
 - Real-time(ish) communication
-- TODO: Image: Slack logo
 
 ---
 

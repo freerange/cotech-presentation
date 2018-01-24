@@ -26,12 +26,16 @@ I'm Chris from Go Free Range and I'm going to talk about:
 
 # [fit] Ruby
 
+![right](ruby-screenshot.png)
+
 ^
 - Very experienced Ruby developers
 
 ---
 
 # [fit] Ruby on Rails
+
+![right](ruby-on-rails-screenshot.png)
 
 ^
 - specialises in Ruby on Rails development

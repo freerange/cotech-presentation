@@ -50,12 +50,12 @@ The company was started in 2009
 
 # [fit] Chris joins
 
+* Chris :heart:
 * Kalv
 * James A
 * James M
 * Jase
 * Tom
-* Chris :heart:
 
 ^
 - TODO: add image to illustrate me becoming 6th member

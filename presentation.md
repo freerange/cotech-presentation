@@ -32,7 +32,7 @@ I'm going to talk about:
 ![right](ruby-screenshot.png)
 
 ^
-- Very experienced Ruby developers
+- We're very experienced Ruby developers
 
 ---
 
@@ -41,8 +41,7 @@ I'm going to talk about:
 ![right](ruby-on-rails-screenshot.png)
 
 ^
-- specialises in Ruby on Rails development
-- Ruby on Rails is a web development framework.
+- who specialise in the Ruby on Rails web development framework
 
 ---
 
@@ -64,7 +63,7 @@ The company was started in 2009
 
 ^
 - I joined as the 6th member in 2010
-- Which started the slow leak of 4 of those members out of the organisation
+- Which signalled the start of 4 members leaving the organisation
 - 3 even went as far as emigrating!
 
 ---
@@ -93,9 +92,8 @@ The company was started in 2009
 # [fit] Tom :heart: Basecamp
 
 ^
-- Tom defected to Basecamp
-- Formerly 37signals
-- Created Rails!
+- Tom left us for the greener pastures of Basecamp
+- Formerly 37signals and the creators of Ruby on Rails
 
 ---
 
@@ -124,7 +122,7 @@ The company was started in 2009
 # [fit] Government Digital Service
 
 ^
-- We worked on the GOV.UK content management system
+- Responsible for, among other things, the single GOV.UK website
 
 ---
 
@@ -134,7 +132,7 @@ The company was started in 2009
 * We're a co-op(ish)
 
 ^
-* I’m relatively comfortable describing ourselves as a worker co-op and we’re in the process of updating our Articles of Association so that they’re compatible with Coops UK.
+- I’m relatively comfortable describing ourselves as a worker co-op and we’re in the process of updating our Articles of Association so that they’re compatible with Coops UK.
 
 ---
 
@@ -160,7 +158,7 @@ The company was started in 2009
 * Annual pay reviews
 
 ^
-* We keep money in the company to ensure we can pay ourselves in the absence of client income
+- We keep money in the company to ensure we can pay ourselves in the absence of client income
 
 ---
 
@@ -301,13 +299,16 @@ The company was started in 2009
 
 # Maintaining the board
 
+^
+We regularly maintain the board to try to ensure nothing falls through the cracks
+
 ---
 
 # Process Inbox
 
-- Daily
-- Clear the inbox
-- Do it, assign it, move it to Discussing
+- Frequency: Daily
+- Goal: Clear the Inbox
+- Action: Do it, assign it, move it to Discussing
 
 ^
 - Task assigned by Harmonia
@@ -316,9 +317,9 @@ The company was started in 2009
 
 # Identify neglected cards
 
-- Weekly
-- Identify cards with no recent activity
-- Move cards to the Discussing list
+- Frequency: Weekly
+- Goal: Identify cards with no recent activity
+- Action: Move cards to the Discussing list
 
 ^
 - Task assigned by Harmonia
@@ -327,9 +328,9 @@ The company was started in 2009
 
 # Discuss cards
 
-- Weekly
-- Improve and move
-- Delete them
+- Frequency: Weekly
+- Goal: Clear the Discussing list
+- Action: Improve and move, or delete them
 
 ^
 - Processed weekly during company meeting
@@ -357,7 +358,7 @@ The company was started in 2009
 # [fit] Recurring tasks
 
 ^
-I'm going to quickly run through some examples of the tasks that go through this process
+I'm going to run through some examples of our recurring tasks to try to illustrate the types of work this allows us to share.
 
 ---
 
@@ -411,7 +412,7 @@ I'm going to quickly run through some examples of the tasks that go through this
 
 - Organisational resilience
 - Lower barrier for new members
-- No knowledge silos
+- Avoid knowledge silos
 
 ^
 - Distributing responsibility for running the company should mean it's more resilient to change in membership.

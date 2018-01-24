@@ -1,3 +1,11 @@
+![fit](gfr-logo.png)
+
+^
+- I'm Chris from Go Free Range
+- Go Free Range is often abbreviated GFR and I might switch between the two during the talk
+
+---
+
 # Overview
 
 * About us
@@ -5,7 +13,7 @@
 * Benefits and challenges
 
 ^
-I'm Chris from Go Free Range and I'm going to talk about:
+I'm going to talk about:
 - our company structure
 - the tools and processes we use to run the company without a boss, and
 - the benefits and challenges of working the way we do
@@ -14,13 +22,8 @@ I'm Chris from Go Free Range and I'm going to talk about:
 
 # [fit] **About us**
 
----
-
-![fit](gfr-logo.png)
-
 ^
 - We're a software company
-- Often abbreviated as GFR
 
 ---
 

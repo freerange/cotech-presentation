@@ -108,7 +108,7 @@ TODO: Image: Chris L’s face, or chris’s face joining james and mine
 
 ---
 
-# [fit] O2
+# [fit] O<sub>2</sub>
 
 ^
 - We’ve been fortunate enough to have three main clients that have helped sustain us since we began

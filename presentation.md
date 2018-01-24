@@ -456,6 +456,15 @@ I'm going to run through some examples of our recurring tasks to try to illustra
 
 ---
 
+# [fit] Why we do it
+
+^
+- I tried freelancing in the past but wasn’t very good at the business bit - I would get to know people and then feel uncomfortable charging them which meant I got into lots of debt. Joining GFR felt like the best possible mix of being freelance while having the support of other people.
+- James recalled freelancing being a lonely experience. Had to work on things individually that were out of his comfort zone. They might still be out of his comfort zone but being to talk about them and work on them collectively makes them easier to handle.
+- Chris joined for a greater sense of liberty and autonomy. To experiment with new ways of working. Escape the tyranny of the man. Do all of this alongside and in support of two of my friends.
+
+---
+
 # Thanks
 
 - James Adam
